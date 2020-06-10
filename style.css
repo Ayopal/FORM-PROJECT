@@ -1,6 +1,31 @@
-/** MAIN_CONTAINER **/
+
+/*   GOLBAL   */
 
 
+:root{
+
+--pcolour : rgb(100,100, 100);
+--scolor : rgb(155, 39, 39);
+--tcolor : rgb(39, 39, 155);
+
+}
+
+*{
+
+    margin : 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body{
+
+    text-align: center;
+}
+
+
+
+/* MAIN_CONTAINER */
 
 
 
